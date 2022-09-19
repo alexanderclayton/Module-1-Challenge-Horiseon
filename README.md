@@ -1,8 +1,10 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Brief explanations of all changes made to the starter code are commented in the HTML and CSS files
+## Introduction
 
-## Challenges in This Course
+Brief explanations of all changes made to the starter code are commented in the HTML and CSS files.  I used the existing challenge README and added a few comments down in the grading requirements section.
+
+## This Challenge
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
@@ -76,6 +78,7 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
+
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
 ## Getting Started
@@ -116,45 +119,45 @@ This Challenge is graded based on the following criteria:
 
 * Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
-  * Application's links all function correctly.  √
+  * Application's links all function correctly.  √ (fixed one link)
 
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. √
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. √ (cleaned CSS page up a bit)
 
-  * Application's CSS file is properly commented. √
+  * Application's CSS file is properly commented. √ (comments indicating what each section does to the style of the webpage)
 
 ### Deployment: 32%
 
-* Application deployed at live URL.
+* Application deployed at live URL. √
 
-* Application loads with no errors.
+* Application loads with no errors. √
 
-* Application GitHub URL submitted.
+* Application GitHub URL submitted. √
 
-* GitHub repository contains application code.
+* GitHub repository contains application code. √
 
 ### Application Quality: 15%
 
-* Application resembles mock-up provided in the Challenge instructions (at least 90%).
+* Application resembles mock-up provided in the Challenge instructions (at least 90%). √
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+* Repository has a unique name. √
 
-* Repository follows best practices for file structure and naming conventions.
+* Repository follows best practices for file structure and naming conventions. √
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. √
 
-* Repository contains multiple descriptive commit messages.
+* Repository contains multiple descriptive commit messages. √ (I hope "first commit" and "updated README" will suffice here)
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+* Repository contains quality README file with description, screenshot, and link to deployed application. √ (added comments to the exisiting README)
 
 ## Review
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application. √
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+* The URL of the GitHub repository, with a unique name and a README that describes the project. √
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
